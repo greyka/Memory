@@ -1,0 +1,30 @@
+model = "gpt-5.4"
+model_reasoning_effort = "medium"
+
+[windows]
+sandbox = "elevated"
+
+[mcp_servers.linear]
+url = "https://mcp.linear.app/mcp"
+
+[mcp_servers.notion]
+url = "https://mcp.notion.com/mcp"
+
+[mcp_servers.figma]
+url = "https://mcp.figma.com/mcp"
+
+[mcp_servers.playwright]
+args = ["@playwright/mcp@latest"]
+command = "npx"
+
+[projects.'C:\Users\Greyka\Desktop\Project\PostFix']
+trust_level = "trusted"
+
+[projects.'C:\Users\Greyka\Desktop\Project\!!!!Memory!!!!']
+trust_level = "trusted"
+
+[plugins."gmail@openai-curated"]
+enabled = true
+
+[plugins."google-drive@openai-curated"]
+enabled = true
