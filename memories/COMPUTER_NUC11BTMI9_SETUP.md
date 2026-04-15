@@ -45,5 +45,6 @@ Prepared folders:
 
 - A driver index file was created in `Notes\DRIVERS_INDEX.md`.
 - A helper script `Notes\Open-Official-Driver-Pages.ps1` opens the official ASUS and Intel pages for the remaining downloads.
+- The driver index also stores the exact source pages and direct links that were used for this machine.
 - Intel binary download links from `downloadmirror.intel.com` returned `403 Forbidden` to the CLI session, so Intel packages were identified but not fully auto-downloaded from the terminal.
 - ASUS BIOS update path from Windows is supported via Express BIOS Update.
