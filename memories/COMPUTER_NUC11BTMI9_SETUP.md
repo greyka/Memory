@@ -12,7 +12,7 @@ Date: 2026-04-15
 
 Created local archive root:
 
-- `C:\Users\Greyka\Desktop\Project\Компьютеры\NUC11BTMi9_NUCI9`
+- `C:\Users\Greyka\Desktop\Project\Drivers_Update\NUC11BTMi9_NUCI9`
 
 Prepared folders:
 
